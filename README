@@ -1,0 +1,16 @@
+Before starting application, make the fallowing actions :
+
+1 - Open the terminal of the project ad do : 
+
+    - npm install
+    - npm i mongo
+    - mongod
+    - mongo
+    - node scrapGithub.js
+
+2 - Open Robo 3T and search for the DB test
+3 - check the collection scrapingtest
+
+- your data is there.
+
+Enjoy.
